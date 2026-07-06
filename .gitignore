@@ -1,0 +1,27 @@
+# 排除数据、手稿、图、结果
+data/
+results/
+manuscript/
+submission/
+refs/
+*.png
+*.pdf
+*.docx
+*.tsv
+*.csv
+*.xlsx
+*.xls
+*.gz
+*.zip
+*.vcf
+*.gtf
+*.fa
+*.bam
+*.fastq
+# 保留
+!scripts/
+!README.md
+!requirements.txt
+!.gitignore
+__pycache__/
+*.pyc
