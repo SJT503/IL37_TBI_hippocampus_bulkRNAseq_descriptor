@@ -9,7 +9,7 @@ Lin R†, Liu X†, Sun Q, Chen X, Li K, Chen W\*, Sheng J\*
 
 ## Overview
 
-This repository contains all analysis code used to compute the technical-validation metrics and to generate the figures and tables reported in the above Data Descriptor, starting from the released gene-level count matrix deposited in GEO (accession GSExxxxxx).
+This repository contains all analysis code used to compute the technical-validation metrics and to generate the figures and tables reported in the above Data Descriptor, starting from the released gene-level count matrix deposited in GEO (accession GSE337710).
 
 The dataset covers nine bulk RNA-seq libraries from the ipsilateral hippocampus of C57BL/6NJ male mice across three conditions (Sham / CCI+RFP / CCI+IL-37, n = 3 per group), sequenced on an Illumina NovaSeq 6000.
 
@@ -46,7 +46,7 @@ pip install pandas numpy matplotlib scikit-learn python-docx openpyxl
 ```
 
 ### Data
-Download the count matrix from GEO (GSExxxxxx):
+Download the count matrix from GEO (GSE337710):
 - `bulk_counts.tsv` — 41,045 genes × 9 samples (raw integer counts)
 
 Place it at: `F:/IL-37/analysis/deconvolution/results/bulk_counts.tsv`  
@@ -93,9 +93,9 @@ All quantitative inputs used by the scripts are derived from:
 ## Citation
 
 If you use this code or the dataset, please cite:  
-> Lin R, Liu X, Sun Q, Chen X, Li K, Chen W\*, Sheng J\*. A bulk RNA sequencing dataset of the mouse hippocampus after controlled cortical impact with AAV-mediated human interleukin-37 overexpression. *Scientific Data* (2026). https://doi.org/[to be assigned]
+> Lin R, Liu X, Sun Q, Chen X, Li K, Chen W\*, Sheng J\*. A bulk RNA sequencing dataset of the mouse hippocampus after controlled cortical impact with AAV-mediated human interleukin-37 overexpression. *Scientific Data* (2026). https://doi.org/10.5281/zenodo.21214811 (code)
 
-GEO accession: **GSExxxxxx** (pending public release)
+GEO accession: **GSE337710** (pending public release)
 
 ---
 
