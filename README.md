@@ -93,7 +93,7 @@ All quantitative inputs used by the scripts are derived from:
 ## Citation
 
 If you use this code or the dataset, please cite:  
-> Sheng JT†, Lin R†, Liu X, Sun Q, Chen X, Li K, Chen W\*, Sheng J\*. A bulk RNA sequencing dataset of the mouse hippocampus after controlled cortical impact with AAV-mediated human interleukin-37 overexpression. *Scientific Data* (2026). https://doi.org/10.5281/zenodo.21214811 (code)
+> Sheng JT†, Lin R†, Liu X, Sun Q, Chen X, Li K, Chen W\*, Sheng J\*. A bulk RNA sequencing dataset of the mouse hippocampus after controlled cortical impact with AAV-mediated human interleukin-37 overexpression. *Scientific Data* (2026). https://doi.org/10.5281/zenodo.21214810 (code)
 
 GEO accession: **GSE337710** (pending public release)
 
