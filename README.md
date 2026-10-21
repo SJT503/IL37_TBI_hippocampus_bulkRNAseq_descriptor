@@ -1,7 +1,7 @@
 # IL-37 TBI Hippocampus Bulk RNA-seq Data Descriptor — Analysis Code
 
 **Companion code repository for:**  
-Lin R†, Liu X†, Sun Q, Chen X, Li K, Chen W\*, Sheng J\*  
+Sheng JT†\*, Lin R†, Liu X, Sun Q, Chen X, Li K, Chen W\*  
 "A bulk RNA sequencing dataset of the mouse hippocampus after controlled cortical impact with AAV-mediated human interleukin-37 overexpression"  
 *Scientific Data* (submitted 2026)
 
@@ -93,7 +93,7 @@ All quantitative inputs used by the scripts are derived from:
 ## Citation
 
 If you use this code or the dataset, please cite:  
-> Lin R, Liu X, Sun Q, Chen X, Li K, Chen W\*, Sheng J\*. A bulk RNA sequencing dataset of the mouse hippocampus after controlled cortical impact with AAV-mediated human interleukin-37 overexpression. *Scientific Data* (2026). https://doi.org/10.5281/zenodo.21214811 (code)
+> Sheng JT†, Lin R†, Liu X, Sun Q, Chen X, Li K, Chen W\*, Sheng J\*. A bulk RNA sequencing dataset of the mouse hippocampus after controlled cortical impact with AAV-mediated human interleukin-37 overexpression. *Scientific Data* (2026). https://doi.org/10.5281/zenodo.21214811 (code)
 
 GEO accession: **GSE337710** (pending public release)
 
